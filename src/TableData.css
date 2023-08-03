@@ -1,0 +1,23 @@
+.saveAs {
+  /* margin: 0 auto; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 40px;
+  font-size: medium;
+}
+.SaveAsIcon {
+  max-width: 25px;
+  padding: 0px;
+}
+
+/* .tableRows {
+  font-size: 15px;
+  /* background-color: whitesmoke; */
+/* background-color: red;
+  justify-content: center;
+  align-items: center;
+} */
+.selected {
+  background-color: gray;
+}

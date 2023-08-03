@@ -1,0 +1,19 @@
+.pagination {
+  font-size: 14px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  background-color: purple;
+  color: white;
+}
+.pagination button {
+  margin: 5px;
+  border-radius: 5px;
+  width: 28px;
+  height: 25px;
+  font-weight: 500;
+  background-color: purple;
+  color: white;
+  cursor: pointer;
+}
